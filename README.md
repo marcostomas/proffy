@@ -6,10 +6,10 @@
     Here are two images from the mobile app:
 <p>
 
-<img src="./Images/IMG_2110.PNG">
+<img src="./Images/IMG_2110.PNG" width="320" heihgt="480">
 
 </br>
 </br>
 </br>
 
-<img src="./Images/IMG_2111.jpg">
+<img src="./Images/IMG_2111.jpg" width="320" heihgt="480">
